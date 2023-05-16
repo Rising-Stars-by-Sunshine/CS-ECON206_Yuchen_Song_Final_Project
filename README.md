@@ -1,4 +1,4 @@
-# # Title [Modified Chicken Game under a Spy Operation Scenario](https://www.nature.com/articles/s41562-021-01152-2)
+# # [Modified Chicken Game under a Spy Operation Scenario]
 ## Project information
 - **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
