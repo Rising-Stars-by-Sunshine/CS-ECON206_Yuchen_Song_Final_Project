@@ -50,7 +50,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 - Posters
-![image]()
+![image](https://github.com/Rising-Stars-by-Sunshine/CS_ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/Attack%20%26%20Defense%20Game%20A%20Simulation%20and%20Modeling%20of%20Two-side%20Confrontation%20Scenarios.png)
 - Slides
 
 
