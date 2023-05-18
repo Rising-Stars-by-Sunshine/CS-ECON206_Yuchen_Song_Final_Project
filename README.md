@@ -30,15 +30,22 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 - Game Environment: 
+  
   The game is based on a classical game in game theory literature, Chicken Game, which is a model of conflict between risk-taking and risk-avoidance of two players. One of the classical game scenarios is when two drivers drive toward each other, each can choose to swerve or straight. If one of them chooses to swerve and the other chooses to straight, the former one will be seen as chickening out and will receive a lower payoff (2), while the latter one will receive a higher payoff (7) since he’s braver. If both choose to swerve, it will be a tie, and both receive a moderate payoff (6,6). While, if both players choose to straight, they will crash into each other, and receives a zero payoff, since they fail to avoid the risk. In the modified version, one additional rule is that both players can choose whether to spy at the beginning of the game, if so, he will pay 1 payoff at last. The game has two rounds, and the total payoff is the sum of the payoff in two rounds.
 - Solution Concept: 
+  
   In the first case, neither side uses spies, and in the last case, there are two possible scenarios. One, both are rational, and the payoff is (12,12). Second, when one hopes to maximize the payoff in one or two rounds, the payoff is (13,8) or (14,4). Three: Both people are hoping to maximize the payoff in one or two rounds, the payoff being (9,9) or (0,0) or (7,2), or (2,7). It is worth mentioning that in the third scenario, it is possible for one party to retaliate against the other party in the second round due to the other party's selfish choice in the first round. Both (7,2) and (9,9) could be the payoff of this scenario. 
+  
   In every other case, at least one party used a spy in at least one round. Note that if spies are used, players will let each other know about the spy operation, because if not telling their opponent, the payoff of 1 won't affect their strategy except to know the other's choice ahead of time.  
+  
   The second scenario is that one party (let's say player A) used A spy in the first round, then based on the above analysis, Player A will inform Player B, and Player B may choose to retaliate against Player A's spy because using a spy is a sign of distrust, so the result of this round is (-1, 0) or (1,7). In this case, the payoff will be less than 21, regardless of whether the two parties use spies in Round 2. 
+  
   The third scenario is that both parties used spies in the first round, so they both know the other used spies. In these situations, where each partner's choices are being monitored by the other, and each knows that the other doesn't trust them, the chances that one of them will take a risk are greatly reduced. Because he knows that his behavior is being monitored, he knows that if he chooses to maximize his own interests, the other party will be more likely to retaliate against his irrational choice based on distrust. In this case, both parties are more likely to choose to swerve when they are subject to such constraints, and the yield of this round is (5,5). In Round 2, if both sides choose to use spies, it is likely that (10,10) total payoff will be reached based on the previous analysis. 
+  
   In all three cases, we found that spying may be seen as a sign of distrust, increasing the likelihood of retaliation, but when both parties spy and their actions are monitored, players are less willing to take risks and retaliate accordingly. So, both sides should choose to use spies to get a (10,10) payoff with a high probability, even if a payoff of 4 is consumed. If both do not use spies the total return is likely to be lower than 22, with the risk of having a very low, and unfair payoff. So, in general, we've had a smaller payoff for a more stable and equitable payoff.
 
 - Evaluations: 
+  
   If we analyze this modified game by Nash Equilibrium, it will suggest both players not use spies and be rational to choose swerve, which results in a (6,6) payoff. However, according to the analysis above, it is difficult for players to be perfectly rational, especially under the additional rules. Therefore, using spies for both players to raise the probability of achieving a fair and more stable equilibrium with little cost is a preferable solution to what Nash equilibrium suggests.
 
 ### Spotlight
@@ -49,6 +56,7 @@ Note: please insert the screenshot of the answers to your research question by C
 ### More about the Author
 - headshot
 - self-introduction
+  
   Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
 - Final reflections 
   - intellectual growth
