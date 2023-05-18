@@ -49,7 +49,7 @@ Note: please insert the screenshot of the answers to your research question by C
   If we analyze this modified game by Nash Equilibrium, it will suggest both players not use spies and be rational to choose swerve, which results in a (6,6) payoff. However, according to the analysis above, it is difficult for players to be perfectly rational, especially under the additional rules. Therefore, using spies for both players to raise the probability of achieving a fair and more stable equilibrium with little cost is a preferable solution to what Nash equilibrium suggests.
 
 ### Code
-- [Overleaf Project]()
+- [Overleaf Project](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/code/CSECON206_Final_Project_Spring2023_Yuchen.pdf)
 - [Colab Project]()
 
 ### Spotlight
