@@ -1,11 +1,12 @@
 # # Modified Chicken Game under a Spy Operation Scenario
 ## Project information
-- **Author**: [Yuchen][Song], [Computation and Design with tracks in Computer Science], [2025], Duke Kunshan University
+- **Author**: Yuchen Song, Computation and Design with tracks in Computer Science, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
+- **Project Summary**:
+- Nash equilibrium is based on the assumption that players are rational, but in reality, players are sometimes willing to take risks to maximize profit. For example, in Chicken Game, the solution obtained by using Nash equilibrium is that both sides choose chicken, but one side may bet that the opposite side is rational and will choose chicken. Based on this risky assumption, he will choose Dave to maximize his own payoff. Therefore, based on the discussion of spy in the Art of War, this paper proposes a solution concept to avoid irrational self-interest maximization and increase the probability to choose a Nash equilibrium strategy. 
   - [Summarize the Background/Motivation]
   - [Research Questions]
   - [Application Scenario]
@@ -18,6 +19,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
+- polished problem set 1 and problem set 2
 - model
 - code
 - spotlight
