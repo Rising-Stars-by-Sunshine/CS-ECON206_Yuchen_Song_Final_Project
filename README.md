@@ -56,7 +56,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### More about the Author
 - headshot
-![image]([https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/Headshot.jpg](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/headshot%20(1).jpg))
+![image](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/headshot%20(1).jpg)
 - self-introduction
   
   Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
