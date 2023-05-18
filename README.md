@@ -1,6 +1,6 @@
 # # Modified Chicken Game under a Spy Operation Scenario
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: [Yuchen][Song], [Computation and Design with tracks in Computer Science], [2025], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
