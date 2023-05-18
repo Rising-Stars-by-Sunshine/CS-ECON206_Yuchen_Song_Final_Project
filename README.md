@@ -48,8 +48,13 @@ Note: please insert the screenshot of the answers to your research question by C
   
   If we analyze this modified game by Nash Equilibrium, it will suggest both players not use spies and be rational to choose swerve, which results in a (6,6) payoff. However, according to the analysis above, it is difficult for players to be perfectly rational, especially under the additional rules. Therefore, using spies for both players to raise the probability of achieving a fair and more stable equilibrium with little cost is a preferable solution to what Nash equilibrium suggests.
 
+### Code
+- [Overleaf Project]()
+- [Colab Project]()
+
 ### Spotlight
 - Posters
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/Attack%20%26%20Defense%20Game%20A%20Simulation%20and%20Modeling%20of%20Two-side%20Confrontation%20Scenarios.png)
 - Slides
 
@@ -58,6 +63,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### More about the Author
 - headshot
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/headshot%20(1).jpg)
 - self-introduction
   
@@ -74,15 +80,51 @@ Note: please insert the screenshot of the answers to your research question by C
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
 ```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+@book{tzu2012sun,
+  title={Sun Tzu's The Art of War: Bilingual Edition Complete Chinese and English Text},
+  author={Tzu, Sun},
+  year={2012},
+  publisher={Tuttle Publishing}
+}
+@article{niou1994game,
+  title={A Game-Theoretic Interpretation of Sun Tzu's: The Art of War},
+  author={Niou, Emerson MS and Ordeshook, Peter C},
+  journal={Journal of Peace Research},
+  volume={31},
+  number={2},
+  pages={161--174},
+  year={1994},
+  publisher={Sage Publications 6 Bonhill Street, London EC2A 4PU, UK}
+}
+@article{rapoport1966game,
+  title={The game of chicken},
+  author={Rapoport, Anatol and Chammah, Albert M},
+  journal={American Behavioral Scientist},
+  volume={10},
+  number={3},
+  pages={10--28},
+  year={1966},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+}
+@article{nash1950equilibrium,
+  title={Equilibrium points in n-person games},
+  author={Nash Jr, John F},
+  journal={Proceedings of the national academy of sciences},
+  volume={36},
+  number={1},
+  pages={48--49},
+  year={1950},
+  publisher={National Acad Sciences}
+}
+@article{asch1956studies,
+  title={Studies of independence and conformity: I. A minority of one against a unanimous majority.},
+  author={Asch, Solomon E},
+  journal={Psychological monographs: General and applied},
+  volume={70},
+  number={9},
+  pages={1},
+  year={1956},
+  publisher={American Psychological Association}
 }
 ```
 
