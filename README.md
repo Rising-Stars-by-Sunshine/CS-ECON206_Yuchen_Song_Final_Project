@@ -9,7 +9,7 @@
   - Application Scenario: The modified Chicken Game can be applied to situations involving conflicts or interactions between two sides where risk-taking and risk-avoidance are key elements. Examples includes business negotiations, military deterrence and political game. 
   - Methodology:The game is based on a classical game in game theory literature, Chicken Game, which is a model of conflict between risk-taking and risk-avoidance of two players. In the modified version, one additional rule is that both players can choose whether to spy at the beginning of the game, if so, he will pay 1 payoff at last. The game has two rounds, and the total payoff is the sum of the payoff in two rounds.
   - Results: Based on the modified game and the analysis of all strategies, the optimal strategy is not the one suggested by Nash Equilibrium.
-  - Intellectual Merits and Practical impacts: Verification by experiment, a more complex game environment containing spy actions, extension to other strategic form games, and psychological and behavioral studies are future research directions based on this research
+  - Intellectual Merits and Practical impacts: Experiment verifications, a more complex game environment containing spy actions, extension to other strategic form games, and psychological and behavioral studies are future research directions based on this research
   
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
