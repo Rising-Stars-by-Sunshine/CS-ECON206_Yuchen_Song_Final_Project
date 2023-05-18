@@ -24,6 +24,11 @@ Note: please insert the screenshot of the answers to your research question by C
 - more about the author
 - references
 
+### Polished PS1 and PS2
+
+- Polished Problem Set 1: [CS206-ECON206-Yuchen-Song-PS1](https://github.com/Rising-Stars-by-Sunshine/CS206-ECON206-Yuchen-Song-PS1)
+- Polished Problem Set 2: [csecon206-Yuchen-PS2](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2)
+
 ### Model
 - Game Environment
 - Solution Concept
