@@ -8,7 +8,9 @@ Nash equilibrium is based on the assumption that players are rational, but in re
   - [Summarize the Background/Motivation]
   - Research Questions 
 
-Are there some ways to force both players to be perfectly rational in the game, ultimately increasing the probability that the players will choose the Nash equilibrium? How will people act in the modified Chicken Game? What are their rationales? Can the additional rules in the game influence people’s decision-making and force them to avoid risk-taking choices and choose the Nash equilibrium?
+1. Are there some ways to force both players to be perfectly rational in the game, ultimately increasing the probability that the players will choose the Nash equilibrium? 
+2. How will people act in the modified Chicken Game? What are their rationales? 
+3. Can the additional rules in the game influence people’s decision-making and force them to avoid risk-taking choices and choose the Nash equilibrium?
 
   - [Application Scenario]
   - [Methodology]
