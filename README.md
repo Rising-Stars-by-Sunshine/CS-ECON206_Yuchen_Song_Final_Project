@@ -11,9 +11,6 @@
   - Results: Based on the modified game and the analysis of all strategies, the optimal strategy is not the one suggested by Nash Equilibrium.
   - Intellectual Merits and Practical impacts: Experiment verifications, a more complex game environment containing spy actions, extension to other strategic form games, and psychological and behavioral studies are future research directions based on this research
   
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
-
 ## Table of Contents
 
 - polished problem set 1 and problem set 2
