@@ -53,6 +53,8 @@ Note: please insert the screenshot of the answers to your research question by C
 ![image](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/Attack%20%26%20Defense%20Game%20A%20Simulation%20and%20Modeling%20of%20Two-side%20Confrontation%20Scenarios.png)
 - Slides
 
+[Econ206 Final Project.pptx](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/spotlight/Econ206%20Final%20Project.pptx)
+
 
 ### More about the Author
 - headshot
