@@ -74,6 +74,9 @@ Note: please insert the screenshot of the answers to your research question by C
     Through this project, I found that interdisciplinary research could enable me to analyze the concepts of game theory from different perspectives. For example, from the point of view of psychology and behavioral science, the Nash equilibrium's assumption that players are absolutely rational is not true. From a computer science perspective, there are many programming techniques we can use to simplify Nash Equilibrium calculations and simulate game environments. At the same time, based on the interdisciplinary research of game theory and other disciplines and the improvement of existing theories, it is applied to different disciplines and brings inspiration to the research of other disciplines.
   
   - professional growth
+
+    In this course and research, I have understood and learned the software related to game theory, such as SPNE and Otree. At the same time, I have learned relevant programming knowledge, such as Nashpy and Latex. I have also learned the basic process of editing and writing academic papers. These knowledge will be of great help to my future research and study.
+    
   - living a purposeful life
 
 ### References
