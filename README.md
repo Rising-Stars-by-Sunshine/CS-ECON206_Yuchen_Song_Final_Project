@@ -8,7 +8,7 @@ Nash equilibrium is based on the assumption that players are rational, but in re
   - [Summarize the Background/Motivation]
   - Research Questions: 1. Are there some ways to force both players to be perfectly rational in the game, ultimately increasing the probability that the players will choose the Nash equilibrium? 2. How will people act in the modified Chicken Game? What are their rationales? 3. Can the additional rules in the game influence people’s decision-making and force them to avoid risk-taking choices and choose the Nash equilibrium?
 
-  - [Application Scenario]
+  - Application Scenario: The modified Chicken Game can be applied to situations involving conflicts or interactions between two sides where risk-taking and risk-avoidance are key elements. Here are some examples. In business negotiations, the game can be used to simulate conflicts during a two-sided business negotiation. For each side, they should decide whether to take a risk-taking strategy or a risk-averse strategy. The decision of spying can be seen as gathering information from an insider during the negotiations. Another application scenario is military deterrence. If one side chooses to take risks, he will choose to threaten the other side, but there is a risk that the other side will start a war with him. If one party chooses to avoid risks, he may be threatened by the other party and get a lower payoff in the negotiation. The spy option is the spy in the real situation, he can help his side to know the other side's actions and choice tendencies.
   - [Methodology]
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
