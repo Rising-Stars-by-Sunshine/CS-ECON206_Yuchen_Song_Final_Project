@@ -50,7 +50,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Code
 - [Overleaf Project](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/code/CSECON206_Final_Project_Spring2023_Yuchen.pdf)
-- [Colab Project]()
+- [Colab Project](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yuchen_Song_Final_Project/blob/main/code/CSECON206_Final_Project.ipynb)
 
 ### Spotlight
 - Posters
