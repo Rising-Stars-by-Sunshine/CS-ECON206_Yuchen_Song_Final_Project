@@ -70,6 +70,9 @@ Note: please insert the screenshot of the answers to your research question by C
   Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
 - Final reflections 
   - intellectual growth
+
+    Through this project, I found that interdisciplinary research could enable me to analyze the concepts of game theory from different perspectives. For example, from the point of view of psychology and behavioral science, the Nash equilibrium's assumption that players are absolutely rational is not true. From a computer science perspective, there are many programming techniques we can use to simplify Nash Equilibrium calculations and simulate game environments. At the same time, based on the interdisciplinary research of game theory and other disciplines and the improvement of existing theories, it is applied to different disciplines and brings inspiration to the research of other disciplines.
+  
   - professional growth
   - living a purposeful life
 
