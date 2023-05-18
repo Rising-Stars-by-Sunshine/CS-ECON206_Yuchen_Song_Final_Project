@@ -7,10 +7,9 @@
 Nash equilibrium is based on the assumption that players are rational, but in reality, players are sometimes willing to take risks to maximize profit. For example, in Chicken Game, the solution obtained by using Nash equilibrium is that both sides choose chicken, but one side may bet that the opposite side is rational and will choose chicken. Based on this risky assumption, he will choose Dave to maximize his own payoff. Therefore, based on the discussion of spy in the Art of War, this paper proposes a solution concept to avoid irrational self-interest maximization and increase the probability to choose a Nash equilibrium strategy. 
   - [Summarize the Background/Motivation]
   - Research Questions 
-
-1. Are there some ways to force both players to be perfectly rational in the game, ultimately increasing the probability that the players will choose the Nash equilibrium? 
-2. How will people act in the modified Chicken Game? What are their rationales? 
-3. Can the additional rules in the game influence people’s decision-making and force them to avoid risk-taking choices and choose the Nash equilibrium?
+  - Are there some ways to force both players to be perfectly rational in the game, ultimately increasing the probability that the players will choose the Nash equilibrium? 
+  - How will people act in the modified Chicken Game? What are their rationales? 
+  - Can the additional rules in the game influence people’s decision-making and force them to avoid risk-taking choices and choose the Nash equilibrium?
 
   - [Application Scenario]
   - [Methodology]
